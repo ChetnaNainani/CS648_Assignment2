@@ -17,4 +17,4 @@ Each page contains a nav bar module and a common header and each was connected t
 <p>SOLUTIONS PAGE</p>
 <img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/Solutions%20Page.png" alt="Solutions" width="500" height="800">
 <p>CONTACT US PAGE</p>
-<img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/Contact%20Us%20Page.png" alt="Contact Us" width="700" height="500">
+<img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/Contact%20Us%20Page.png" alt="Contact Us" width="500" height="400">
