@@ -9,3 +9,12 @@ Assignment 2 consists of four-page website for Vecta Corp. There are pages for
 
 Each page contains a nav bar module and a common header and each was connected to the others using an anchor tag.
 
+## SCREENSHOTS
+<p>HOME PAGE</p>
+<img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/Home%20Page.png" alt="Home" width="500" height="600">
+<p>ABOUT US PAGE</p>
+<img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/About%20Us%20Page.png" alt="About Us" width="500" height="1000">
+<p>SOLUTIONS PAGE</p>
+<img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/Solutions%20Page.png" alt="Solutions" width="500" height="800">
+<p>CONTACT US PAGE</p>
+<img src="https://github.com/ChetnaNainani/CS648_Assignment2/blob/main/screenshots/Contact%20Us%20Page.png" alt="Contact Us" width="700" height="500">
